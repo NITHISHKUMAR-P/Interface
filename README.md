@@ -140,7 +140,6 @@ namespace exp9
 ### Deposit:
 <img src="https://github.com/ShafeeqAhamedS/C-_Exp_9_Interface/assets/93427237/9ce014d3-0541-4ee1-8b0b-5f8e951a6319">
 <img src="https://github.com/ShafeeqAhamedS/C-_Exp_9_Interface/assets/93427237/6ff65ebd-b150-43fb-8cb3-b9063315cddc">
-### Withdrawl:
 <img src="https://github.com/ShafeeqAhamedS/C-_Exp_9_Interface/assets/93427237/364b2248-2faa-4bdf-a705-6e320f071452">
 <img src="https://github.com/ShafeeqAhamedS/C-_Exp_9_Interface/assets/93427237/fbb1d238-2cae-4523-ad1b-28b85c20ccd9">
 
